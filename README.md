@@ -2,7 +2,8 @@
 
 ITIL4 
 
-![image](https://user-images.githubusercontent.com/92338332/203941297-d8f62b8d-47ec-413b-9dd6-db4901fc1a20.png)
+<h2>Azure Cloud</h2>
+<a href='https://www.credly.com/badges/41ae6881-cab5-4cb6-bc57-c41f71817a9e' title='Microsoft Certified: DevOps Engineer Expert,Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.'><img src='/wp-content/uploads/certifications/ms/Microsoft Certified  DevOps Engineer Expert.webp' width='140' alt='Microsoft Certified: DevOps Engineer Expert,Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.' srcorg='https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png'/></a>
 
 <!--
 **umarshodi/UmarShodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
