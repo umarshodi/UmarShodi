@@ -2,7 +2,7 @@
 
  
 <h2>ITIL4</h2>
-<a href='https://drive.google.com/file/d/19EGwddqs2lKEpAF7lzf1AGu2fBZ40rf2/view' title='ITIL4 Certificate'><img src='/wp-content/uploads/certifications/itil/itil4.png' width='140' alt='' srcorg=''/></a>
+<a href='https://drive.google.com/file/d/19EGwddqs2lKEpAF7lzf1AGu2fBZ40rf2/view' target="_blank" title='ITIL4 Certificate'><img src='/wp-content/uploads/certifications/itil/itil4.png' width='140' alt='' srcorg=''/></a>
 
 <!--
 **umarshodi/UmarShodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
