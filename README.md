@@ -4,7 +4,8 @@
 <h2>ITIL4</h2>
 <a href='https://drive.google.com/file/d/19EGwddqs2lKEpAF7lzf1AGu2fBZ40rf2/view' title='ITIL4 Certificate'><img src='/wp-content/uploads/certifications/itil/itil4.png' width='140'  target='_blank'/></a>
 <h2>DevOps</h2>
-<a href='https://drive.google.com/file/d/19EGwddqs2lKEpAF7lzf1AGu2fBZ40rf2/view' title='DevOps Foundation Certificate'><img src='/wp-content/uploads/certifications/devopsinstitute/DevOpsFoundationBadge.webp' width='140'  target='_blank'/></a>
+<a href='https://drive.google.com/file/d/1T2kNfC8A8L_q-VmdPTJRCTHSSRhXOdEe/view' title='DevOps Foundation Certificate'><img src='/wp-content/uploads/certifications/devopsinstitute/DevOpsFoundationBadge.webp' width='140'  target='_blank'/></a>
+<a href='https://www.credly.com/badges/07fdfd0c-aa18-4010-9dcd-8ae813b81bb1' title='DevOps Foundation Certificate'><img src='/wp-content/uploads/certifications/devopsinstitute/devops-essentials.2.png' width='140'  target='_blank'/></a>
 <!--
 **umarshodi/UmarShodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
